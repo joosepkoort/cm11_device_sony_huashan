@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Sony Xperia SP
 ==============
 
@@ -22,4 +22,4 @@ Camera  | 8MPx, LED Flash
 This branch is for building CyanogenMod 11 (or Android KitKat 4.4 AOSP based roms) ROMS.
 =======
 # cm11_device_sony_huashan
->>>>>>> 54fedcfdbb37f21ace6433f50d47783f1ca74597
+
